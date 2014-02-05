@@ -10,4 +10,14 @@ class PagesController < ApplicationController
 
   def contact
   end
+
+  def web
+  end
+
+  def digital
+  end
+
+  def print
+  end
+
 end
